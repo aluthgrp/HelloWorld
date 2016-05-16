@@ -11,4 +11,7 @@ public class Main {
     private void display2(){
         System.out.println(" Test 1234 ");
     }
+    private void display3(){
+        System.out.println(" Test 12345 ");
+    }
 }
