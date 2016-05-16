@@ -7,4 +7,8 @@ public class Main {
     private void display(){
         System.out.println(" Test 123 ");
     }
+
+    private void display2(){
+        System.out.println(" Test 1234 ");
+    }
 }
